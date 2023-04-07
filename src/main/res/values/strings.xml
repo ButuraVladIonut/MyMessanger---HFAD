@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Messanger</string>
+    <string name="hint">hint</string>
+    <string name="send">send</string>
+    <string name="chooser">Send message via ...</string>
+</resources>
